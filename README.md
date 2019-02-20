@@ -7,5 +7,8 @@ These are materials for the statistics practicals that are part of NST IB. You c
 
 1. [Plot Spot](01_plot_spot.ipynb)
 2. [Correlation Station](02_correlation_station.ipynb)
+3. [Regression session](03_regression_session.ipynb)
+4. [Model Doddle](04_model_doddle.ipynb)
+
 
 
